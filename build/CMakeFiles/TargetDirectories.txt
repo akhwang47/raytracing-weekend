@@ -1,0 +1,3 @@
+/Users/andrewhwang/Documents/Projects/raytracing-weekend/build/CMakeFiles/inOneWeekend.dir
+/Users/andrewhwang/Documents/Projects/raytracing-weekend/build/CMakeFiles/edit_cache.dir
+/Users/andrewhwang/Documents/Projects/raytracing-weekend/build/CMakeFiles/rebuild_cache.dir
